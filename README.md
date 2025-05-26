@@ -1,4 +1,3 @@
-# relativita-einstein
 <!DOCTYPE html>
 <html lang="it">
 <head>
